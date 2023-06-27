@@ -1,0 +1,18 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.leipzig",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ufcl2122gp6",
+      "name": "vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "ufcl2122gp5",
+      "name": "vs Bruges",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    }
+  ]
+}

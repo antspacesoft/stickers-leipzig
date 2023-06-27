@@ -1,0 +1,48 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.leipzig",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "dfbpokal2122w1",
+      "name": "DFB Pokal-Sieger",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "dfbpokal2122f1",
+      "name": "vs Freiburg",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "dfbpokal2122s1",
+      "name": "vs Union Berlin",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "dfbpokal2122f4",
+      "name": "vs Hannover",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "dfbpokal2122f8",
+      "name": "vs Hansa Rostock",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dfbpokal2122f16",
+      "name": "vs Babelsberg",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "dfbpokal2122f32",
+      "name": "vs SV Sandhausen",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    }
+  ]
+}
