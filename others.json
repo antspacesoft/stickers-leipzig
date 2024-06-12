@@ -9,6 +9,12 @@
          "stickers":"26"
       },
       {
+         "identifier":"euro2024team1",
+         "name":"Team Euro 2024",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"supercup2023f1",
          "name":"Super Cup 2023",
          "animated_sticker_pack":false,
